@@ -4,6 +4,8 @@
 
 [![NPM](https://img.shields.io/npm/v/react-sf-themes.svg)](https://www.npmjs.com/package/react-sf-themes) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![Node.js CI](https://github.com/superflows-dev/react-sf-themes/actions/workflows/node.js.yml/badge.svg)](https://github.com/superflows-dev/react-sf-themes/actions/workflows/node.js.yml)
 
+<br />
+
 ## On This Page
 
 - [Introduction](#introduction)
@@ -13,9 +15,13 @@
 - [Customization](#customization)
 - [Tests](#tests)
 
+<br />
+
 ## Introduction
 
 Use this package to access the default color theme provided by Superflows. Then customize it further by changing the default color values to suit your UI. 
+
+<br />
 
 ## How It Works
 
@@ -23,6 +29,8 @@ Customization works as follows:
 - Access the default color theme using this package
 - Modify the colors as per your requirement
 - Pass the modified theme to your Superflows components
+
+<br />
 
 ## Colors
 
@@ -41,6 +49,7 @@ Superflows is designed using Bootstrap, naturally the color theme follows the Bo
 | Light        | #f8f9fa           | #000000            |
 | Dark         | #212529           | #ffffff            |
 
+<br />
 
 ## Quickstart
 
@@ -66,6 +75,8 @@ const App = () => {
 export default App
 
 ```
+
+<br />
 
 ## Tests
 
@@ -94,6 +105,7 @@ Tests:       1 passed, 1 total
 Snapshots:   0 total
 Time:        2.445s
 
+<br />
 
 ## License
 
