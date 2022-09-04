@@ -30,19 +30,6 @@ Customization works as follows:
 
 Superflows is designed using Bootstrap, naturally the color theme follows the Bootstrap's default color theme as well. Following color-types are defined:
 
-<span style="height: 20px; background-color: #0d6efd; color: white; padding: 5px">Primary Color</span>
-<span style="height: 20px; background-color: #6c757d; color: white; padding: 5px">Secondary Color</span>
-<span style="height: 20px; background-color: #dc3545; color: white; padding: 5px">Danger Color</span>
-<span style="height: 20px; background-color: #198754; color: white; padding: 5px">Success Color</span>
-<span style="height: 20px; background-color: #ffc107; color: black; padding: 5px">Warning Color</span>
-<span style="height: 20px; background-color: #0dcaf0; color: black; padding: 5px">Info Color</span>
-<span style="height: 20px; background-color: #f8f9fa; color: black; padding: 5px">Light Color</span>
-<span style="height: 20px; background-color: #212529; color: white; padding: 5px">Dark Color</span>
-
-### Color Values
-
-Following color values are defined by default:
-
 | Type         | Background Color  | Text Color         |
 |--------------|-------------------|--------------------|
 | Primary      | #0d6efd           | #ffffff            |
