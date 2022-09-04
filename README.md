@@ -74,7 +74,7 @@ export default App
 To run tests locally:
 
 ```bash
-npm tests
+npm test
 ```
 
 ### Results
