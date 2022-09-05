@@ -10,7 +10,7 @@ function getTheme() {
     warningBgColor: '#ffc107',
     infoBgColor: '#0dcaf0',
     lightBgColor: '#f8f9fa',
-    darkBgColor: '212529',
+    darkBgColor: '#212529',
     primaryTextColor: '#ffffff',
     secondaryTextColor: '#ffffff',
     dangerTextColor: '#ffffff',
