@@ -21,7 +21,19 @@ function getTheme() {
     darkTextColor: '#ffffff'
   }
 
-  return theme;
+  let variants;
+
+  variants = {
+    primary: "primary",
+    secondary: "secondary",
+    success: "success",
+    warning: "warning",
+    info: "info",
+    light: "light",
+    dark: "dark"
+  }
+
+  return {theme: theme, variants: variants};
 
 }
 

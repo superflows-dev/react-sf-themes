@@ -38,7 +38,7 @@ Customization works as follows:
 
 Superflows is designed using Bootstrap, naturally the color theme follows the Bootstrap's default color theme as well. Following color-types are defined:
 
-| Type         | Background Color  | Text Color         |
+| Variant      | Background Color  | Text Color         |
 |--------------|-------------------|--------------------|
 | Primary      | #0d6efd           | #ffffff            |
 | Secondary    | #6c757d           | #ffffff            |
