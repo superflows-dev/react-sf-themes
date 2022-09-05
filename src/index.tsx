@@ -26,6 +26,7 @@ function getTheme() {
   variants = {
     primary: "primary",
     secondary: "secondary",
+    danger: "danger",
     success: "success",
     warning: "warning",
     info: "info",
