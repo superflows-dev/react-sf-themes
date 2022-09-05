@@ -1,8 +1,8 @@
 function getTheme() {
 
-  let theme;
+  let colors;
 
-  theme = {
+  colors = {
     primaryBgColor: '#0d6efd',
     secondaryBgColor: '#6c757d',
     dangerBgColor: '#dc3545',
@@ -33,7 +33,14 @@ function getTheme() {
     dark: "dark"
   }
 
-  return {theme: theme, variants: variants};
+  let types;
+
+  types = {
+    filled: "filled",
+    outlined: 'outlined'
+  }
+
+  return {colors: colors, variants: variants, types: types};
 
 }
 

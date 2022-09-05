@@ -10,7 +10,7 @@
 
 - [Introduction](#introduction)
 - [How It Works](#how-it-works)
-- [Colors](#colors)
+- [Theme](#theme)
 - [Quickstart](#quickstart)
 - [Customization](#customization)
 - [Tests](#tests)
@@ -32,11 +32,34 @@ Customization works as follows:
 
 <br />
 
-## Colors
+## Theme
 
-### Types of Colors
+Theme is a set of:
+- Variants
+- Types
+- Colors
 
-Superflows is designed using Bootstrap, naturally the color theme follows the Bootstrap's default color theme as well. Following color-types are defined:
+### Variants
+
+Superflows is designed using Bootstrap, naturally the variants are same as Bootstrap's. 
+- Primary
+- Secondary
+- Danger
+- Success
+- Warning
+- Info
+- Light
+- Dark
+
+### Types
+
+Types are also inspired from Bootstrap, but considerably simplified.
+- Filled
+- Outlined
+
+### Colors
+
+Superflows is designed using Bootstrap, naturally the color theme follows the Bootstrap's default color theme as well. Following colors are defined:
 
 | Variant      | Background Color  | Text Color         |
 |--------------|-------------------|--------------------|
