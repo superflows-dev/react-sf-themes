@@ -41,7 +41,19 @@ function getTheme() {
     outlined: 'outlined'
   }
 
-  return {colors: colors, variants: variants, types: types};
+  let spaces;
+
+  spaces = {
+    min: '5',
+    ltl: '10',
+    mod: '15',
+    big: '20',
+    lrg: '25',
+    xlg: '30',
+    max: '35',
+  }
+
+  return {colors: colors, variants: variants, types: types, spaces: spaces};
 
 }
 

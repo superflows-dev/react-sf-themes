@@ -41,7 +41,7 @@ Theme is a set of:
 
 ### Variants
 
-Superflows is designed using Bootstrap, naturally the variants are same as Bootstrap's. 
+Superflows provides the following variants: 
 - Primary
 - Secondary
 - Danger
@@ -53,13 +53,13 @@ Superflows is designed using Bootstrap, naturally the variants are same as Boots
 
 ### Types
 
-Types are also inspired from Bootstrap, but considerably simplified.
+Types are as followed:
 - Filled
 - Outlined
 
 ### Colors
 
-Superflows is designed using Bootstrap, naturally the color theme follows the Bootstrap's default color theme as well. Following colors are defined:
+Following colors are provided:
 
 | Variant      | Background Color  | Text Color         |
 |--------------|-------------------|--------------------|
@@ -71,6 +71,20 @@ Superflows is designed using Bootstrap, naturally the color theme follows the Bo
 | Info         | #0dcaf0           | #000000            |
 | Light        | #f8f9fa           | #000000            |
 | Dark         | #212529           | #ffffff            |
+
+### Spaces
+
+Spaces are dimensions, which are intended to be used for spacings, paddings, margins, etc.
+
+| Space      | Value  
+|------------|-------------------
+| min        | 5
+| ltl        | 10
+| mod        | 15
+| big        | 20
+| lrg        | 25
+| xlg        | 30
+| max        | 35
 
 <br />
 
