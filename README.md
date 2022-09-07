@@ -1,6 +1,6 @@
 # react-sf-themes
 
-> Color theme for the Superflows component system
+> Learn how to customize the appearance of the Superflows components to suit your UI.
 
 [![NPM](https://img.shields.io/npm/v/react-sf-themes.svg)](https://www.npmjs.com/package/react-sf-themes) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![Node.js CI](https://github.com/superflows-dev/react-sf-themes/actions/workflows/node.js.yml/badge.svg)](https://github.com/superflows-dev/react-sf-themes/actions/workflows/node.js.yml)
 
@@ -19,7 +19,7 @@
 
 ## Introduction
 
-Use this package to access the default color theme provided by Superflows. Then customize it further by changing the default color values to suit your UI. 
+Use the react-sf-themes package to access the default theme provided by Superflows. Then customize it further by changing the default color values & spaces to suit your UI.
 
 <br />
 
