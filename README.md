@@ -8,7 +8,7 @@
 
 ## Documentation
 
-[Read 📖](#http://superflows.dev/customize)
+[Read 📖](#https://superflows.dev/docs/customize/)
 
 <br />
 
