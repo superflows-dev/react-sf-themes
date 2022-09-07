@@ -6,6 +6,12 @@
 
 <br />
 
+## Documentation
+
+[Read 📖](#http://superflows.dev/customize)
+
+<br />
+
 ## On This Page
 
 - [Introduction](#introduction)
