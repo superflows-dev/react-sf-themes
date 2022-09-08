@@ -53,7 +53,26 @@ function getTheme() {
     max: '35',
   }
 
-  return {colors: colors, variants: variants, types: types, spaces: spaces};
+  let modes;
+
+  modes = {
+    day: "day",
+    night: "night"
+  };
+
+  let inputTypes;
+
+  inputTypes = {
+    name: "name",
+    email: "email",
+    mobile: "mobile",
+    gender: "gender",
+    date: "date",
+    dateOfBirth: "dateOfBirth",
+    searchString: "searchString"
+  }
+
+  return {colors: colors, variants: variants, types: types, spaces: spaces, modes: modes, inputTypes: inputTypes};
 
 }
 

@@ -1,6 +1,6 @@
 # react-sf-themes
 
-> Learn how to customize the appearance of the Superflows components to suit your UI.
+> This packages contains the global Superflows configuration including the default UI theme.
 
 [![NPM](https://img.shields.io/npm/v/react-sf-themes.svg)](https://www.npmjs.com/package/react-sf-themes) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![Node.js CI](https://github.com/superflows-dev/react-sf-themes/actions/workflows/node.js.yml/badge.svg)](https://github.com/superflows-dev/react-sf-themes/actions/workflows/node.js.yml)
 
@@ -25,25 +25,28 @@
 
 ## Introduction
 
-Use the react-sf-themes package to access the default theme provided by Superflows. Then customize it further by changing the default color values & spaces to suit your UI.
+Use the react-sf-themes package to access the global configuration and the default theme provided by Superflows. If needed you can customize it as you want by changing the default values to suit your UI.
 
 <br />
 
 ## How It Works
 
 Customization works as follows:
-- Access the default color theme using this package
-- Modify the colors as per your requirement
-- Pass the modified theme to your Superflows components
+- Access the default configuration and theme values using this package
+- Modify them as per your requirement
+- Pass the modified object to your Superflows components
 
 <br />
 
 ## Theme
 
-Theme is a set of:
+This package provides default values for:
 - Variants
 - Types
 - Colors
+- Spaces
+- Modes
+- InputTypes
 
 ### Variants
 
@@ -91,6 +94,29 @@ Spaces are dimensions, which are intended to be used for spacings, paddings, mar
 | lrg        | 25
 | xlg        | 30
 | max        | 35
+
+## Modes
+
+Modes are:
+
+| Mode       | Value  
+|------------|-------------------
+| Day        | day
+| Night      | night
+
+## InputTypes
+
+Input types are types of input accepted from the users in the input field.
+
+| InputType       | Value  
+|-----------------|-------------------
+| Name            | name
+| Email           | email
+| Mobile          | mobile
+| Date            | date
+| DateOfBirth     | dateOfBirth
+| Gender          | gender
+| SearchString    | searchString
 
 <br />
 
