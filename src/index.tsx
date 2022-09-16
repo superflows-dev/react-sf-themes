@@ -71,7 +71,13 @@ function getTheme() {
     dateOfBirth: "dateOfBirth"
   }
 
-  return {colors: colors, variants: variants, types: types, spaces: spaces, modes: modes, inputTypes: inputTypes};
+  let dimensions;
+
+  dimensions = {
+    navHeight: '50'
+  }
+
+  return {colors: colors, variants: variants, types: types, spaces: spaces, modes: modes, inputTypes: inputTypes, dimensions: dimensions};
 
 }
 

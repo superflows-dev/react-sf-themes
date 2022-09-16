@@ -45,6 +45,7 @@ This package provides default values for:
 - Types
 - Colors
 - Spaces
+- Dimensions
 - Modes
 - InputTypes
 
@@ -95,7 +96,15 @@ Spaces are dimensions, which are intended to be used for spacings, paddings, mar
 | xlg        | 30
 | max        | 35
 
-## Modes
+### Dimensions
+
+Spaces are dimensions, which are intended to be used for spacings, paddings, margins, etc.
+
+| Space      | Value  
+|------------|-------------------
+| navHeight  | 50
+
+### Modes
 
 Modes are:
 
@@ -104,7 +113,7 @@ Modes are:
 | Day        | day
 | Night      | night
 
-## InputTypes
+### InputTypes
 
 Input types are types of input accepted from the users in the input field.
 
