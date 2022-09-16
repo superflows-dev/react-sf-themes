@@ -98,9 +98,9 @@ Spaces are dimensions, which are intended to be used for spacings, paddings, mar
 
 ### Dimensions
 
-Spaces are dimensions, which are intended to be used for spacings, paddings, margins, etc.
+Dimensions are default dimensions for certain Superflows components
 
-| Space      | Value  
+| Dimension  | Value  
 |------------|-------------------
 | navHeight  | 50
 
