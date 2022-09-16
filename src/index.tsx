@@ -68,8 +68,7 @@ function getTheme() {
     mobile: "mobile",
     gender: "gender",
     date: "date",
-    dateOfBirth: "dateOfBirth",
-    searchString: "searchString"
+    dateOfBirth: "dateOfBirth"
   }
 
   return {colors: colors, variants: variants, types: types, spaces: spaces, modes: modes, inputTypes: inputTypes};

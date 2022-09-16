@@ -116,7 +116,6 @@ Input types are types of input accepted from the users in the input field.
 | Date            | date
 | DateOfBirth     | dateOfBirth
 | Gender          | gender
-| SearchString    | searchString
 
 <br />
 
