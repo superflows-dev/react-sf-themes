@@ -48,6 +48,7 @@ This package provides default values for:
 - Dimensions
 - Modes
 - InputTypes
+- Breakpoints
 
 ### Variants
 
@@ -125,6 +126,18 @@ Input types are types of input accepted from the users in the input field.
 | Date            | date
 | DateOfBirth     | dateOfBirth
 | Gender          | gender
+
+### Breakpoints
+
+Breakpoints are widths, that are used in responsive design.
+
+| Breakpoint      | Value  
+|-----------------|-------------------
+| mobile          | 480
+| tablet          | 768
+| laptop          | 1024
+| desktop         | 1200
+
 
 <br />
 

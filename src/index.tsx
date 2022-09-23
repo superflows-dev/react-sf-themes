@@ -77,7 +77,16 @@ function getTheme() {
     navHeight: '50'
   }
 
-  return {colors: colors, variants: variants, types: types, spaces: spaces, modes: modes, inputTypes: inputTypes, dimensions: dimensions};
+  let breakpoints;
+
+  breakpoints = {
+    mobile: 480,
+    tablet: 768,
+    laptop: 1024,
+    desktop: 1200
+  };
+
+  return {colors: colors, variants: variants, types: types, spaces: spaces, modes: modes, inputTypes: inputTypes, dimensions: dimensions, breakpoints: breakpoints};
 
 }
 
