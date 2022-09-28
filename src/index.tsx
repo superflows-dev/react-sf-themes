@@ -74,7 +74,8 @@ function getTheme() {
   let dimensions;
 
   dimensions = {
-    navHeight: '50'
+    navHeight: '50',
+    menuWidth: '120'
   }
 
   let breakpoints;
