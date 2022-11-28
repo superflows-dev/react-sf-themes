@@ -101,10 +101,13 @@ Spaces are dimensions, which are intended to be used for spacings, paddings, mar
 
 Dimensions are default dimensions for certain Superflows components
 
-| Dimension  | Value  
-|------------|-------------------
-| navHeight  | 50
-| menuWidth  | 120
+| Dimension                 | Value  
+|---------------------------|-------------------
+| navHeight                 | 50
+| navBannerHeight           | 30
+| menuWidth                 | 120
+| notificationListWidth     | 200
+| notificationListMaxWidth  | 200
 
 ### Modes
 

@@ -75,7 +75,10 @@ function getTheme() {
 
   dimensions = {
     navHeight: '50',
-    menuWidth: '120'
+    navBannerHeight: '30',
+    menuWidth: '120',
+    notificationListWidth: '200',
+    notificationListMaxHeight: '400',
   }
 
   let breakpoints;
