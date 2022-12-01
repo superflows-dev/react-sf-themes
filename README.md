@@ -103,7 +103,7 @@ Dimensions are default dimensions for certain Superflows components
 
 | Dimension                 | Value  
 |---------------------------|-------------------
-| navHeight                 | 50
+| navHeight                 | 60
 | navBannerHeight           | 30
 | menuWidth                 | 120
 | notificationListWidth     | 200

@@ -74,7 +74,7 @@ function getTheme() {
   let dimensions;
 
   dimensions = {
-    navHeight: '50',
+    navHeight: '60',
     navBannerHeight: '30',
     menuWidth: '120',
     notificationListWidth: '200',
